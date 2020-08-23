@@ -1,0 +1,12 @@
+D:\Documents\WorkSpace\InfLetterTest\bin\Debug\InfLetterTest.exe.config
+D:\Documents\WorkSpace\InfLetterTest\bin\Debug\InfLetterTest.exe
+D:\Documents\WorkSpace\InfLetterTest\bin\Debug\InfLetterTest.pdb
+D:\Documents\WorkSpace\InfLetterTest\bin\Debug\InfLetterTest.xml
+D:\Documents\WorkSpace\InfLetterTest\obj\Debug\InfLetterTest.vbprojAssemblyReference.cache
+D:\Documents\WorkSpace\InfLetterTest\obj\Debug\InfLetterTest.LetterTest.resources
+D:\Documents\WorkSpace\InfLetterTest\obj\Debug\InfLetterTest.Resources.resources
+D:\Documents\WorkSpace\InfLetterTest\obj\Debug\InfLetterTest.vbproj.GenerateResource.cache
+D:\Documents\WorkSpace\InfLetterTest\obj\Debug\InfLetterTest.vbproj.CoreCompileInputs.cache
+D:\Documents\WorkSpace\InfLetterTest\obj\Debug\InfLetterTest.exe
+D:\Documents\WorkSpace\InfLetterTest\obj\Debug\InfLetterTest.xml
+D:\Documents\WorkSpace\InfLetterTest\obj\Debug\InfLetterTest.pdb
